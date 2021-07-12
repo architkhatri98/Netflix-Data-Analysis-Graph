@@ -1,0 +1,25 @@
+Group Members:
+1. Khatri, Archit - UFID: 3333 9695
+2. Mongia, Nayan - UFID: 4033 0601
+
+There are 6 files in the folder AOA_completeFinal which is a java package.
+1. Graph_operations.java
+2. Graph_simulation.java
+3. Simulation_test.java
+4. Graph_make.java
+5. Real_test.java
+6. Pair.java (Helping class)
+
+To compile, please write
+javac AOA_completeFinal/*.java
+
+
+To run Simulation_test.java , please write
+java AOA_completeFinal.Simulated_test
+
+
+To run Real_test.java , please write
+java AOA_completeFinal.Real_test
+
+
+To read the file, put the file in the same folder as this README file, NOT in the java package.
